@@ -2,3 +2,5 @@ streamlit
 qrcode
 Pillow
 requests
+opencv-python 
+pyzbar
